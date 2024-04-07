@@ -18,7 +18,7 @@ class Home extends StatelessWidget {
                 fillColor: Colors.white,
                 backgroundColor: const Color.fromARGB(255, 234, 232, 232),
                 radius: 120.0,
-                lineWidth: 15.0,
+                lineWidth: 10.0,
                 percent: 60 / 100,
                 center: Container(
                   width: 200,
