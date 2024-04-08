@@ -6,7 +6,7 @@ class Test extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    double progressValue = 90;
+    double progressValue = 60;
     return Scaffold(
       appBar: AppBar(
         title: const Center(child: Text('Point')),
